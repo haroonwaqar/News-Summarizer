@@ -1,23 +1,18 @@
- # **📰 News Summarizer with GUI**
+ # **News Summarizer**
 
 This is a Python-based News Summarizer application with a simple Tkinter GUI. It allows users to input a news article URL, fetches the article content using the Newspaper3k library, and then summarizes the content. Additionally, it performs sentiment analysis using TextBlob to determine whether the article is positive, negative, or neutral.
 
-## 🚀 Features
+## Features
 
-✅ Easy-to-use Tkinter GUI  
-📄 Automatically extracts article title, authors, and publication date  
-✂️ Summarizes news content  
-😊 Performs basic sentiment analysis  
-🔗 Just paste a URL and get instant results!  
+- Easy-to-use Tkinter GUI  
+- Automatically extracts article title, authors, and publication date  
+- Summarizes news content  
+- Performs basic sentiment analysis  
+- Just paste a URL and get instant results!  
 
-## 🧰 Technologies Used
+## Technologies Used
 
-Python 🐍  
-Tkinter – GUI Framework  
-Newspaper3k – Article extraction and summarization  
-TextBlob – Sentiment analysis  
-
-## ▶️ Usage
-
-Run the script:    
-python News_Article_summary_Project.py
+- Python 
+- Tkinter – GUI Framework  
+- Newspaper3k – Article extraction and summarization  
+- TextBlob – Sentiment analysis  
