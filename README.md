@@ -13,6 +13,6 @@ This is a Python-based News Summarizer application with a simple Tkinter GUI. It
 ## Technologies Used
 
 - Python 
-- Tkinter – GUI Framework  
+- Tkinter
 - Newspaper3k – Article extraction and summarization  
 - TextBlob – Sentiment analysis  
